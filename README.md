@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-I am a seasoned Full Stack Developer with over 13 years of experience in developing robust applications and integrating cutting-edge technologies. Currently, I am working as a Senior Software Engineer at Microsoft, where I leverage my expertise in frontend and backend development to build high-performance applications.
+I am a seasoned Full Stack Developer with over 13 years of experience in developing robust applications and integrating cutting-edge technologies. Currently, I am working as a Senior Software Engineer at Microsoft, where I leverage my expertise in frontend and backend development to build high-performance applications. Additionally, I am currently learning and exploring AI technologies to stay at the forefront of innovation.
 
 ### 🎓 Education & Certification
 - **Bachelor of Technology in Computer Science and Engineering** - Jawaharlal Nehru Technological University (2006-2010)
