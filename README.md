@@ -25,6 +25,3 @@ I am a seasoned Full Stack Developer with over 13 years of experience in develop
 - **Tools:** Visual Studio, Azure DevOps, Git, Jira, SSIS, SSRS, Power BI
 - **Cloud Services:** Azure
 - **Databases:** Microsoft SQL Server, MySQL
-
-### 📫 Contact Me
-- [LinkedIn](https://linkedin.com/in/rakesh-chevuru-8382a78b)
