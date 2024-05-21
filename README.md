@@ -18,12 +18,6 @@ I am a seasoned Full Stack Developer with over 13 years of experience in develop
 ### 🏢 Professional Experience
 
 #### **Currently working as a Senior Software Engineer at Microsoft**
-- Leveraged React, Python, and .NET to work on diverse frontend and backend projects.
-- Developed and maintained high-performance web/chat applications using React, Redux, and TypeScript.
-- Collaborated with UX/UI designers to convert designs into high-quality code.
-- Ensured code quality through unit and integration tests with Jest and React Testing Library.
-- Automated deployments and builds using Azure DevOps pipelines and Bicep templates.
-- Utilized a range of Azure services, including Web Apps, API Management, Function Apps, Key Vault, Cosmos DB, SQL databases, and Application Insights.
 
 ### 💡 Technical Proficiency
 - **Languages:** C#, Python, JavaScript, TypeScript, HTML5, CSS3, SQL, JSON
